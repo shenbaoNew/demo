@@ -20,7 +20,7 @@ namespace Digiwin.ERP.X_B900.UI.Implement {
             InitializeComponent();
 
             this._provider = provider;
-        }
+        }  
 
         private void btnOk_Click(object sender, EventArgs e) {
             SetResult();
