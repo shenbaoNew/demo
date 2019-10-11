@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BindingSourceContainer xmlns="http://schemas.dcms.com/configuration/BindingSourceContainerElement">
+  <BindingSources>
+    <BindingSource>
+      <Id>Root</Id>
+    </BindingSource>
+    <BindingSource>
+      <Id>XBSE_001</Id>
+      <Path>X_B900_D</Path>
+      <CollectionBindings>
+        <CollectionBinding>
+          <Id>XCBE_002</Id>
+          <ControlName>XdesignerGrid1</ControlName>
+          <ColumnCustomFormats>
+            <ColumnCustomFormat>
+              <PropertyName>X_QTY</PropertyName>
+              <CustomFormat>CZ,C</CustomFormat>
+            </ColumnCustomFormat>
+          </ColumnCustomFormats>
+        </CollectionBinding>
+      </CollectionBindings>
+    </BindingSource>
+  </BindingSources>
+</BindingSourceContainer>

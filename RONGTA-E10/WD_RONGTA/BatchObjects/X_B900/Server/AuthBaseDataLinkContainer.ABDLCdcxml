@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AuthBaseDataLinkContainer xmlns="http://schemas.dcms.com/configuration/AuthBaseDataLinkContainerElement">
+  <AuthBaseDataLinks>
+    <AuthBaseDataLink>
+      <Id>X_B900</Id>
+      <TypeKey>X_B900</TypeKey>
+      <AuthLinkBaseDatas>
+        <AuthLinkBaseData>
+          <Id>X_B900.GROUP_CUSTOMER</Id>
+          <Name>GROUP_CUSTOMER</Name>
+          <DisplayName>客户</DisplayName>
+        </AuthLinkBaseData>
+        <AuthLinkBaseData>
+          <Id>X_B900.WAREHOUSE</Id>
+          <Name>WAREHOUSE</Name>
+          <DisplayName>仓库</DisplayName>
+        </AuthLinkBaseData>
+        <AuthLinkBaseData>
+          <Id>X_B900.GROUP_SUPPLIER</Id>
+          <Name>GROUP_SUPPLIER</Name>
+          <DisplayName>供应商</DisplayName>
+        </AuthLinkBaseData>
+      </AuthLinkBaseDatas>
+    </AuthBaseDataLink>
+  </AuthBaseDataLinks>
+</AuthBaseDataLinkContainer>

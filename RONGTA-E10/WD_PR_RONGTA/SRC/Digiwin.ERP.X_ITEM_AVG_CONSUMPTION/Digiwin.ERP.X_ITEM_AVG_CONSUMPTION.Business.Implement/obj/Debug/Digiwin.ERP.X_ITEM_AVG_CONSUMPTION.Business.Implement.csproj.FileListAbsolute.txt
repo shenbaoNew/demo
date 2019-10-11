@@ -1,0 +1,5 @@
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Export\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.Business.Implement.dll
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Export\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.Business.Implement.pdb
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.Business.Implement\obj\Debug\ResolveAssemblyReference.cache
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.Business.Implement\obj\Debug\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.Business.Implement.dll
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.Business.Implement\obj\Debug\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.Business.Implement.pdb

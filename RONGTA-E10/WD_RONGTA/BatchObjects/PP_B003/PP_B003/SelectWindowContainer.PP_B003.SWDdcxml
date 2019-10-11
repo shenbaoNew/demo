@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SelectWindowContainer xmlns="http://schemas.dcms.com/configuration/SelectWindowContainerElement">
+  <SelectWindows>
+    <SelectWindow Action="Edit" Oid="XSWD_Name_0004">
+      <WindowOpeners>
+        <GeneralWindowOpener Action="Edit" Oid="PP_B003_SALES_ORDER_DOCS_F2">
+          <QueryProjectId>XM_QPD_0005_01</QueryProjectId>
+          <ReturnExpressions>
+            <ReturnExpression Action="Remove" Oid="69d3ab9a-2846-4d01-8d49-7090312865f7" />
+            <ReturnExpression Action="Remove" Oid="916cf1a8-89d8-48af-a78c-e01ca344979a" />
+          </ReturnExpressions>
+        </GeneralWindowOpener>
+      </WindowOpeners>
+    </SelectWindow>
+  </SelectWindows>
+</SelectWindowContainer>

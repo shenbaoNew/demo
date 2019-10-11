@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MenuResourceContainer xmlns="http://schemas.dcms.com/configuration/MenuResourceContainerElement">
+  <Programs>
+    <Program>
+      <ProgramInfoId>X_B900.B01</ProgramInfoId>
+      <ViewName>X_B900</ViewName>
+    </Program>
+  </Programs>
+</MenuResourceContainer>

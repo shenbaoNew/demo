@@ -1,0 +1,16 @@
+C:\DF_E10_6.0\WD_PR_X\SRC\Export\Digiwin.ERP.X_B900.UI.Implement.dll
+C:\DF_E10_6.0\WD_PR_X\SRC\Export\Digiwin.ERP.X_B900.UI.Implement.pdb
+C:\DF_E10_6.0\WD_PR_X\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\ResolveAssemblyReference.cache
+C:\DF_E10_6.0\WD_PR_X\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.dll
+C:\DF_E10_6.0\WD_PR_X\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.pdb
+C:\DF_E10_6.0\WD_PR_X\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.ChangeDateForm.resources
+C:\DF_E10_6.0\WD_PR_X\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.csproj.GenerateResource.Cache
+C:\DF_E10_6.0\WD_PR_X\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.Properties.Resources.resources
+C:\DF_E10_6.0\WD_PR_C\SRC\Export\Digiwin.ERP.X_B900.UI.Implement.dll
+C:\DF_E10_6.0\WD_PR_C\SRC\Export\Digiwin.ERP.X_B900.UI.Implement.pdb
+C:\DF_E10_6.0\WD_PR_C\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\ResolveAssemblyReference.cache
+C:\DF_E10_6.0\WD_PR_C\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.ChangeDateForm.resources
+C:\DF_E10_6.0\WD_PR_C\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.Properties.Resources.resources
+C:\DF_E10_6.0\WD_PR_C\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.csproj.GenerateResource.Cache
+C:\DF_E10_6.0\WD_PR_C\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.dll
+C:\DF_E10_6.0\WD_PR_C\SRC\Digiwin.ERP.X_B900\Digiwin.ERP.X_B900.UI.Implement\obj\Debug\Digiwin.ERP.X_B900.UI.Implement.pdb

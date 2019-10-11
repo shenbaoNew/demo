@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MetadataContainer xmlns="http://schemas.dcms.com/configuration/MetadataContainerElement">
+  <DataEntityTypes>
+    <DataEntityType>
+      <Name>X_B900_UI</Name>
+      <Description>X_B900_UI</Description>
+      <BaseTypeName>X_B900</BaseTypeName>
+      <Domain>View</Domain>
+      <DataEntityTypeType>Root</DataEntityTypeType>
+      <Properties>
+        <CollectionProperty>
+          <Name>X_B900_D</Name>
+          <ItemDataEntityTypeName>X_B900_D_X_B900_UI</ItemDataEntityTypeName>
+        </CollectionProperty>
+      </Properties>
+    </DataEntityType>
+    <DataEntityType>
+      <Name>X_B900_D_X_B900_UI</Name>
+      <BaseTypeName>X_B900_D</BaseTypeName>
+      <Domain>View</Domain>
+      <DataEntityTypeType>CollectionItem</DataEntityTypeType>
+    </DataEntityType>
+  </DataEntityTypes>
+</MetadataContainer>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FormulaContainer xmlns="http://schemas.dcms.com/configuration/FormulaContainerElement">
+  <Formulas>
+    <LambdaFormula>
+      <Id>XFLD_001</Id>
+      <DisplayName>PMC接单日</DisplayName>
+      <Path>X_B900_D</Path>
+      <Target>ActiveObject.X_PMC_DATE</Target>
+      <Expression>Context.ServerDate()</Expression>
+      <ActivePoints>
+        <FormulaActivePoint>
+          <ActivePoint>SetDefault</ActivePoint>
+        </FormulaActivePoint>
+      </ActivePoints>
+    </LambdaFormula>
+  </Formulas>
+</FormulaContainer>

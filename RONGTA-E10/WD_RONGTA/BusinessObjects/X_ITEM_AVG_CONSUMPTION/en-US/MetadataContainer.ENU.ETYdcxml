@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MetadataContainer xmlns="http://schemas.dcms.com/configuration/MetadataContainerElement">
+  <DataEntityTypes>
+    <DataEntityType Action="Edit" Oid="X_ITEM_AVG_CONSUMPTION">
+      <Properties>
+        <ReferenceProperty Action="Edit" Oid="ITEM_ID">
+          <DisplayName>Primary Key</DisplayName>
+        </ReferenceProperty>
+      </Properties>
+    </DataEntityType>
+  </DataEntityTypes>
+</MetadataContainer>

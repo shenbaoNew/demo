@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BindingSourceContainer xmlns="http://schemas.dcms.com/configuration/BindingSourceContainerElement">
+  <BindingSources>
+    <BindingSource>
+      <Id>Root</Id>
+      <CollectionBindings>
+        <CollectionBinding>
+          <Id>XCBE_002</Id>
+          <ControlName>XdesignerGrid1</ControlName>
+          <ColumnCustomFormats>
+            <ColumnCustomFormat>
+              <PropertyName>AVG_CONSUMPTION</PropertyName>
+              <CustomFormat>'C,N,'+String(ActiveObject.uiXDICIMAL_DIGIT)</CustomFormat>
+              <IsExpression>True</IsExpression>
+            </ColumnCustomFormat>
+          </ColumnCustomFormats>
+        </CollectionBinding>
+      </CollectionBindings>
+    </BindingSource>
+  </BindingSources>
+</BindingSourceContainer>

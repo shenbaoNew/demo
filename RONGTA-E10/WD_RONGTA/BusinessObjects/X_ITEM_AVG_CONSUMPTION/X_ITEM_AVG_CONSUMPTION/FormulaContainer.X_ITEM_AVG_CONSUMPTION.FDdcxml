@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FormulaContainer xmlns="http://schemas.dcms.com/configuration/FormulaContainerElement">
+  <Formulas>
+    <LambdaFormula>
+      <Id>XFLD_001</Id>
+      <DisplayName>引用实体TypeKey</DisplayName>
+      <Target>ActiveObject.Owner_Org.RTK</Target>
+      <Expression>'PLANT'</Expression>
+      <ActivePoints>
+        <FormulaActivePoint>
+          <ActivePoint>SetDefault</ActivePoint>
+        </FormulaActivePoint>
+      </ActivePoints>
+    </LambdaFormula>
+  </Formulas>
+</FormulaContainer>

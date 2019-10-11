@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MetadataContainer xmlns="http://schemas.dcms.com/configuration/MetadataContainerElement">
+  <DataEntityTypes>
+    <DataEntityType Action="Edit" Oid="X_ITEM_AVG_CONSUMPTION">
+      <DataEntityIndexes>
+        <DataEntityIndex Action="Edit" Oid="XXITEMAVGCONSUMPTIONB001">
+          <IndexKeyType>BusinessPrimaryKey</IndexKeyType>
+        </DataEntityIndex>
+      </DataEntityIndexes>
+    </DataEntityType>
+  </DataEntityTypes>
+</MetadataContainer>

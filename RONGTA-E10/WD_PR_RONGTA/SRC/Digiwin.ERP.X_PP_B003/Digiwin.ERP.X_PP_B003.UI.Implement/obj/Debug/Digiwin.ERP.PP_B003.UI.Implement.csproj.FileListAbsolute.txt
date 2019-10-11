@@ -1,0 +1,5 @@
+D:\WaitTest\DF_E10_6.0\WD_PR\SRC\Export\Digiwin.ERP.X_PP_B003.UI.Implement.dll
+D:\WaitTest\DF_E10_6.0\WD_PR\SRC\Export\Digiwin.ERP.X_PP_B003.UI.Implement.pdb
+D:\WaitTest\DF_E10_6.0\WD_PR\SRC\Digiwin.ERP.X_PP_B003\Digiwin.ERP.X_PP_B003.UI.Implement\obj\Debug\ResolveAssemblyReference.cache
+D:\WaitTest\DF_E10_6.0\WD_PR\SRC\Digiwin.ERP.X_PP_B003\Digiwin.ERP.X_PP_B003.UI.Implement\obj\Debug\Digiwin.ERP.X_PP_B003.UI.Implement.dll
+D:\WaitTest\DF_E10_6.0\WD_PR\SRC\Digiwin.ERP.X_PP_B003\Digiwin.ERP.X_PP_B003.UI.Implement\obj\Debug\Digiwin.ERP.X_PP_B003.UI.Implement.pdb

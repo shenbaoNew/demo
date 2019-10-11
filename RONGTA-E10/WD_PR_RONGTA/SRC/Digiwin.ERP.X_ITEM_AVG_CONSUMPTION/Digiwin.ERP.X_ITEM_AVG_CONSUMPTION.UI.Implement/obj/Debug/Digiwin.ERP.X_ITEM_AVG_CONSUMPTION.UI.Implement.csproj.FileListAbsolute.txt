@@ -1,0 +1,14 @@
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Export\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.dll
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Export\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.pdb
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\ResolveAssemblyReference.cache
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.dll
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.pdb
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.csproj.GenerateResource.Cache
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.Properties.Resources.resources
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.UpdateAvgConsumptionForm.resources
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Export\en-US\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.resources.dll
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Export\zh-CHT\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.resources.dll
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.UpdateAvgConsumptionForm.en-US.resources
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.UpdateAvgConsumptionForm.zh-CHT.resources
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\en-US\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.resources.dll
+C:\DF_E10_6.0\WD_PR_RONGTA\SRC\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement\obj\Debug\zh-CHT\Digiwin.ERP.X_ITEM_AVG_CONSUMPTION.UI.Implement.resources.dll

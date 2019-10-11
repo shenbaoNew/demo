@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AuthBaseDataLinkContainer xmlns="http://schemas.dcms.com/configuration/AuthBaseDataLinkContainerElement">
+  <AuthBaseDataLinks>
+    <AuthBaseDataLink>
+      <Id>X_ITEM_RERERENCE</Id>
+      <TypeKey>X_ITEM_RERERENCE</TypeKey>
+    </AuthBaseDataLink>
+  </AuthBaseDataLinks>
+</AuthBaseDataLinkContainer>
