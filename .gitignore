@@ -1,5 +1,5 @@
 *.dcxml
 *.obj
 # obj bin
-RONGTA-E10/WD_PR_RONGTA/SRC/**/obj/
-RONGTA-E10/WD_PR_RONGTA/SRC/**/bin/
+#RONGTA-E10/WD_PR_RONGTA/SRC/**/obj/
+#RONGTA-E10/WD_PR_RONGTA/SRC/**/bin/
