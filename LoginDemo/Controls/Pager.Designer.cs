@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication7.Controls {
+﻿namespace LoginDemo.Controls {
     partial class Pager {
         /// <summary> 
         /// 必需的设计器变量。

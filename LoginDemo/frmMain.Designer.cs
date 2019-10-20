@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication7 {
+﻿namespace LoginDemo {
     partial class frmMain {
         /// <summary>
         /// 必需的设计器变量。
@@ -29,7 +29,7 @@
             this.barButtonItem2 = new DevExpress.XtraBars.BarButtonItem();
             this.ribbonPage1 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup1 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
-            this.pagerGrid = new WindowsFormsApplication7.Controls.PagerGrid();
+            this.pagerGrid = new LoginDemo.Controls.PagerGrid();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -124,7 +124,7 @@
         private DevExpress.XtraBars.BarButtonItem barButtonItem2;
         private DevExpress.XtraBars.Ribbon.RibbonPage ribbonPage1;
         private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup1;
-        private WindowsFormsApplication7.Controls.PagerGrid pagerGrid;
+        private LoginDemo.Controls.PagerGrid pagerGrid;
     }
 }
 

@@ -11,7 +11,7 @@ using DevExpress.XtraPrinting;
 using DevExpress.XtraEditors;
 using System.Data.SqlClient;
 
-namespace WindowsFormsApplication7 {
+namespace LoginDemo {
     public partial class frmMain : DevExpress.XtraBars.Ribbon.RibbonForm {
         public frmMain() {
             InitializeComponent();

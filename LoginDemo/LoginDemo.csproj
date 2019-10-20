@@ -8,8 +8,8 @@
     <ProjectGuid>{8D1D64E9-0845-4C43-8194-C610FF5F8DB6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WindowsFormsApplication7</RootNamespace>
-    <AssemblyName>WindowsFormsApplication7</AssemblyName>
+    <RootNamespace>LoginDemo</RootNamespace>
+    <AssemblyName>LoginDemo</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -111,10 +111,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\bin\DevExpress.XtraRichEdit.v10.2.dll</HintPath>
     </Reference>
-    <Reference Include="Digiwin.Mars.UI.Utils, Version=1.10.0.136, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\bin\Digiwin.Mars.UI.Utils.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
@@ -192,6 +188,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

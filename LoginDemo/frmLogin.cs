@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication7 {
+namespace LoginDemo {
     public partial class frmLogin : Form {
         public frmLogin() {
             InitializeComponent();

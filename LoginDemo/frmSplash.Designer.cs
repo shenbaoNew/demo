@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication7 {
+﻿namespace LoginDemo {
     partial class frmSplash {
         /// <summary>
         /// Required designer variable.

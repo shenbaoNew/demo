@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using System.Threading;
 using System.Reflection;
 
-namespace WindowsFormsApplication7 {
+namespace LoginDemo {
     public class Splasher {
         private static Form m_SplashForm = null;
         private static ISplashForm m_SplashInterface = null;

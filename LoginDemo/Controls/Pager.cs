@@ -9,7 +9,7 @@ using System.Windows.Forms;
 using DevExpress.XtraEditors;
 using System.Xml.Serialization;
 
-namespace WindowsFormsApplication7.Controls {
+namespace LoginDemo.Controls {
     public partial class Pager : XtraUserControl {
         private int _pageSize;
         /// <summary>

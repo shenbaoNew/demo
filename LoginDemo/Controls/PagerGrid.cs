@@ -10,7 +10,7 @@ using DevExpress.XtraEditors;
 using System.Data.SqlClient;
 using DevExpress.XtraGrid;
 
-namespace WindowsFormsApplication7.Controls {
+namespace LoginDemo.Controls {
     public partial class PagerGrid : XtraUserControl {
         public event EventHandler DataSourceChanged;
         public event EventHandler PageChanged;

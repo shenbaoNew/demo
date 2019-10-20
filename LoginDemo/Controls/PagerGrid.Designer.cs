@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication7.Controls {
+﻿namespace LoginDemo.Controls {
     partial class PagerGrid {
         /// <summary> 
         /// 必需的设计器变量。
@@ -26,7 +26,7 @@
             this.gridControl = new DevExpress.XtraGrid.GridControl();
             this.gridView = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pageControl = new WindowsFormsApplication7.Controls.Pager();
+            this.pageControl = new LoginDemo.Controls.Pager();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView)).BeginInit();
             this.panel1.SuspendLayout();
