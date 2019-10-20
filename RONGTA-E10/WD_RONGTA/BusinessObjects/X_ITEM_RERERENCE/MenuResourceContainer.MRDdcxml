@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<MenuResourceContainer xmlns="http://schemas.dcms.com/configuration/MenuResourceContainerElement">
-  <Programs>
-    <Program>
-      <ProgramInfoId>X_ITEM_RERERENCE.I01</ProgramInfoId>
-      <ViewName>X_ITEM_RERERENCE</ViewName>
-    </Program>
-  </Programs>
-</MenuResourceContainer>
